@@ -56,7 +56,7 @@ The in-order traversal produces:
 [60, 40, 80, 20, 50, 70, 100]
 
 This demonstrates that the BST correctly organized the inserted values and that the in-order traversal
-returned the, in sorted order.
+returned them in sorted order.
 
 This program also searches for values that are present and absent from the tree. Searching for 40 and 60
 returns True because these values exist in the BST. Searching for the values 10 and 30 returns False because

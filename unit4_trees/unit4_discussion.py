@@ -115,7 +115,7 @@ class BST:
         Return a list containing the values from an
         in-order traversal.
         """
-        #         # Creates list to store each value in traversal order.
+        # Creates list to store each value in traversal order.
         values = []
 
         # Initiates the recursive traversal at the root.
